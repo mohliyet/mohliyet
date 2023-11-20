@@ -1,4 +1,4 @@
-- 🌟💻🌟 Hi, I’m @mohliyet 🌟💻🌟
+- 🌟💻🌟 Hi, I’m M. A. 🌟💻🌟
 - 👀 I’m passionate about Computer Vision, Large Language Models (LLMs), Web Development, UI/UX Design, and Design Thinking. 
 - 🌱 Currently enhancing my skills in Python Programming, UI/UX Design, Machine Learning, Web Development, and Generative AI.
 - 💞️ Keen to collaborate on innovative projects, especially those leveraging Machine Learning and Generative AI technologies.
