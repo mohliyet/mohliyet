@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mohliyet
-- 👀 I’m interested in CV, LLMs, web development, UI/UX design and design thinking.
-- 🌱 I’m currently learning python programming, UI/UX design, machine learning, web development and generative AI.
-- 💞️ I’m looking to collaborate on projects that utilize machine learning and generative AI.
-- 📫 How to reach me [Twitter](https://www.twitter.com/mohliyet).
+🌟💻🌟 Hi, I’m @mohliyet 🌟💻🌟
+👀 I’m passionate about Computer Vision, Large Language Models (LLMs), Web Development, UI/UX Design, and Design Thinking. 
+🌱 Currently enhancing my skills in Python Programming, UI/UX Design, Machine Learning, Web Development, and Generative AI.
+💞️ Keen to collaborate on innovative projects, especially those leveraging Machine Learning and Generative AI technologies.
+📫 Reach out to me on [Twitter](https://www.twitter.com/mohliyet) for collaborations, discussions, or just a friendly chat about tech!
+
 
 <!---
 mohliyet/mohliyet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
