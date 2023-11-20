@@ -4,7 +4,8 @@
 - 💞️ Keen to collaborate on innovative projects, especially those leveraging Machine Learning and Generative AI technologies.
 - 📫 Reach out to me on [Twitter](https://www.twitter.com/mohliyet) for collaborations, discussions, or just a friendly chat about tech!
 
-![sprituality](https://github.com/mohliyet/mohliyet/assets/151230060/747e88e8-a7b7-4e90-a8ba-dc6a39a30852)
+![image](https://github.com/mohliyet/mohliyet/assets/151230060/ad7a8c74-2003-4379-aef4-a44639530626)
+
 <!---!
 
 mohliyet/mohliyet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
